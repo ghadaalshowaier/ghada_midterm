@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ghada_AlShowaier_Mid1</string>
+    <string name="act1">You are in activity 1</string>
+    <string name="act2">You are in activity 2</string>
+    <string name="act3">You are in activity 3</string>
+
+    <string name="btnPlay">play music</string>
+
+    <string name="btnGo2Act2">go to activity 2</string>
+    <string name="btnGo2Act3">go to activity 3</string>
+    <string name="btnGo2Act1">go to activity 1</string>
+
+    <string name="name">Insert your name here</string>
+
+    <string name="btndate">Insert your birth date</string>
+
+    <string name="rbf">female</string>
+    <string name="rbm">male</string>
+
+    <string name="rbstudent">student</string>
+    <string name="rbinstructor">instructor</string>
+
+    <string name="btndone">done</string>
+
+    <string name="btnmusic">play music</string>
+
+
+</resources>
